@@ -1,4 +1,4 @@
-LHL Node Skeleton
+LHL Node Skeleton - Decision Maker
 =========
 
 ## Project Setup
