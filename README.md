@@ -1,4 +1,4 @@
-LHL Node Skeleton - Decision Maker
+Decision Maker - LHL Midterm Project
 =========
 
 ## Project Setup
