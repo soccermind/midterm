@@ -2,13 +2,13 @@ Decision Maker - LHL Midterm Project
 =========
 A web application that helps groups of friends to vote on a preferred choice using ranked voting. Users can create polls with multiple choices, then share with friends to respond via a submission link and see results with an admin link. Both links are sent to the poll creator via email. The results are ranked using the Borda Count method. No registration or log in is required to use this app.
 
-!["Create new poll"]()
+!["Create new poll"](https://github.com/soccermind/midterm/blob/master/docs/CreateNewPoll.png)
 -
 
-!["Poll response"]()
+!["Poll response"](https://github.com/soccermind/midterm/blob/master/docs/PollResponse.png)
 -
 
-!["Poll results"]()
+!["Poll results"](https://github.com/soccermind/midterm/blob/master/docs/PollResults.png)
 -
 
 
